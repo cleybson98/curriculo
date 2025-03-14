@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="imagem cley.png" type="image/png"
+    title>curriculo- cleybson teixeira</title>
+    
+</head>
+<body>
+    <h1>cleybson teixeira</h1>
+    <h3>analista de sistemas</h3>
+    <p>
+        Sou estudante de Análise e Desenvolvimento de Sistemas no segundo período pela [SENAC], com grande interesse em tecnologia e 
+        desenvolvimento de software. Durante minha formação, adquiri conhecimentos em linguagens de programação como HTML, CSS e JavaScript, além de noções de banco de dados e metodologias
+        ágeis. Estou em busca de oportunidades de estágio para aplicar na prática os conceitos aprendidos em sala de aula e desenvolver minhas habilidades técnicas. Participo ativamente de projetos acadêmicos e grupos de estudo, onde colaborei em diversas iniciativas de desenvolvimento web. Estou comprometido em aprimorar continuamente meus conhecimentos e contribuir para o sucesso de projetos na área de tecnologia. Possuo habilidades de trabalho em equipe, comunicação e resolução de problemas. Estou disposto a aprender e a enfrentar novos desafios no ambiente profissional.
+    </p>
+    <h1>Entre em Contato</h1>
+    <dt>Nome:cleybson teixeira </dt>
+    <dt>E-mail:cleybsond2@gmail.com</dt>
+    <center>
+    
+        <a href="ghithub.png"> <img src="ghithub.png"> </a>
+    </center>
+    <hr>
+    <h2>formação</h2>
+    <ul>
+        <li>graduando em ADS</li>
+        <dd>-universidade - SENAC</dd>
+        <dd>-período:2024 a 2027</dd>
+        
+</body>
+</html>
