@@ -1,33 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
-<title>
+<html lang="pt-BR">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="imagem cley.png" type="image/png"
-    title>curriculo- cleybson teixeira</title>
-    
+    <link rel="icon" href="IMGs/download (1).png" type="image/png">
+    <title>Currículo - Cleybson Teixeira</title>
 </head>
-<body>
-    <h1>cleybson teixeira</h1>
-    <h3>analista de sistemas</h3>
-    <p>
-        Sou estudante de Análise e Desenvolvimento de Sistemas no segundo período pela [SENAC], com grande interesse em tecnologia e 
-        desenvolvimento de software. Durante minha formação, adquiri conhecimentos em linguagens de programação como HTML, CSS e JavaScript, além de noções de banco de dados e metodologias
-        ágeis. Estou em busca de oportunidades de estágio para aplicar na prática os conceitos aprendidos em sala de aula e desenvolver minhas habilidades técnicas. Participo ativamente de projetos acadêmicos e grupos de estudo, onde colaborei em diversas iniciativas de desenvolvimento web. Estou comprometido em aprimorar continuamente meus conhecimentos e contribuir para o sucesso de projetos na área de tecnologia. Possuo habilidades de trabalho em equipe, comunicação e resolução de problemas. Estou disposto a aprender e a enfrentar novos desafios no ambiente profissional.
+<body><center>
+<h1>Cleybson Teixiera Lima Belmiro</h1>
+<h2>(Analista de Sistemas)</h2></center>
+<h2><strong>Sobre</strong></h2>
+<p>        Sou estudante de Análise e Desenvolvimento de Sistemas no segundo período pela [SENAC], com grande interesse em tecnologia e 
+    desenvolvimento de software. Durante minha formação, adquiri conhecimentos em linguagens de programação como HTML, CSS e JavaScript, além de noções de banco de dados e metodologias
+    ágeis. Estou em busca de oportunidades de estágio para aplicar na prática os conceitos aprendidos em sala de aula e desenvolver minhas habilidades técnicas. Participo ativamente de projetos acadêmicos e grupos de estudo, onde colaborei em diversas iniciativas de desenvolvimento web. Estou comprometido em aprimorar continuamente meus conhecimentos e contribuir para o sucesso de projetos na área de tecnologia. Possuo habilidades de trabalho em equipe, comunicação e resolução de problemas. Estou disposto a aprender e a enfrentar novos desafios no ambiente profissional</p>
+<h2>Contato</h2>
+<img src="IMGs/logosmail.png" alt="logo do github" widht="30" height="30"> Email:<a href='cleybsond2@gmail.com'>cleybsond2@gmail.com</a>
+ 
+    </p><p>
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="logo do github" widht="30" height="30"> GitHub:<a href='https://github.com/cleybson98'>cleybson98</a>
     </p>
-    <h1>Entre em Contato</h1>
-    <dt>Nome:cleybson teixeira </dt>
-    <dt>E-mail:cleybsond2@gmail.com</dt>
-    <center>
-    
-        <a href="ghithub.png"> <img src="ghithub.png"> </a>
-    </center>
-    <hr>
-    <h2>formação</h2>
-    <ul>
-        <li>graduando em ADS</li>
-        <dd>-universidade - SENAC</dd>
-        <dd>-período:2024 a 2027</dd>
+    <p>
+        <img src="IMGs/download (2).png" alt="logo do github" widht="30" height="30"> Linkedin:<a href='https://www.linkedin.com/in/cleybson-teixeira-69b59/'>www.linkedin.com/in/cleybson-teixeira-69b59</a>
+    </p>
+    <p><h2>Formação</h2></p>
+    <p>Análise e Desenvolvimento de Sistemas (ADS)</p>
+    - Faculdade: Senac-PE 
+    <p>- Período: 2024-2026</p>
+    <p>Ensino Médio Completo</p>
         
+    <p></p>
 </body>
 </html>
